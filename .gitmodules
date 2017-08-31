@@ -1,3 +1,6 @@
 [submodule "check_point_mgmt/cpapi_python_sdk"]
 	path = check_point_mgmt/cpapi_python_sdk
 	url = https://github.com/CheckPoint-APIs-Team/cpapi-python-sdk
+[submodule "supersub"]
+	path = supersub
+	url = https://github.com/testusercp/supersub
